@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+logs/
+debug_responses/
+output/
+*.log
+*.pyc
+.env
+chromedriver.exe
+geckodriver.exe

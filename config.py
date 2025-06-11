@@ -90,15 +90,15 @@ class Config:
                 'keyword': '{keyword}',  # 动态参数
                 'odinId': '7514557006495155218',
                 'os': 'windows',
-                'priority_region': '',
+                'priority_region': 'CN',
                 'referer': 'https://www.google.com.hk/',
-                'region': 'JP',
+                'region': 'CN',
                 'root_referer': 'https://www.google.com.hk/',
                 'screen_height': '965',
                 'screen_width': '1715',
                 'tz_name': 'Asia/Shanghai',
                 'user_is_login': 'false',
-                'webcast_language': 'zh-Hans'
+                'webcast_language': 'zh-CN'
             },
             'dynamic_params': ['keyword']  # 需要动态替换的参数
         }
